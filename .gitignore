@@ -2,5 +2,8 @@
 *.exe
 *.out
 *.app
+.ccls-cache
 
 */.vscode
+*/problem1
+*/problem2
