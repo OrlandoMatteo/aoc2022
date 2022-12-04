@@ -22,5 +22,5 @@ for d in days:
         out += "```cpp\n"
         out += f
         out += "```\n"
-fp = open('../index.md', 'w')
+fp = open('../README.md', 'w')
 fp.write(out)
