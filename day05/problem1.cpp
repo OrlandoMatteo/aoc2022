@@ -1,6 +1,8 @@
 #include <fstream>
 #include <iostream>
-#include <list> #include <string.h> #include <vector>
+#include <list>
+#include <string.h>
+#include <vector>
 using namespace std;
 
 void print(list<char> const &list) {
